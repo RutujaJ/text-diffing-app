@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ReactDiffViewer from 'react-diff-viewer';
 import TextArea from './textAreas';
+import './App.css';
 
 function App() {
 
